@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tag/academic/</link>
       <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
@@ -13,82 +13,54 @@
     </image>
     
     <item>
-      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+      <title>Embracing the Power of CI/CD</title>
+      <link>http://localhost:1313/post/ci---cd/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ci---cd/</guid>
+      <description>&lt;h1 id=&#34;embracing-the-power-of-cicd-a-comprehensive-guide&#34;&gt;Embracing the Power of CI/CD: A Comprehensive Guide&lt;/h1&gt;
+&lt;p&gt;In the ever-evolving landscape of software development, the adoption of Continuous Integration (CI) and Continuous Delivery/Deployment (CD) has become a cornerstone for agile and efficient development practices. This blog post aims to delve into the essence of CI/CD, its benefits, challenges, and how to effectively implement it in your development workflow.&lt;/p&gt;
+&lt;h2 id=&#34;understanding-cicd&#34;&gt;Understanding CI/CD&lt;/h2&gt;
+&lt;p&gt;CI/CD stands for Continuous Integration and Continuous Delivery/Deployment. It is a methodology designed to ensure that all code merged into the main branch is deployable at any time by testing and deploying it automatically after every change. The goal is to reduce the lead time of software changes to an interval short enough that feedback loops can be mapped to writing and shipping code 1.&lt;/p&gt;
+&lt;h2 id=&#34;continuous-integration-ci&#34;&gt;Continuous Integration (CI)&lt;/h2&gt;
+&lt;p&gt;CI focuses on the early stages of the software development pipeline, where code is built and undergoes initial testing. Multiple developers work on the same codebase simultaneously, making frequent commits to the code repository. This approach enables easy and low-risk experimentation, as well as the ability to easily roll back or abandon undesirable outcomes. CI employs a variety of tools and automation techniques to create builds and shepherd them through initial testing, such as unit testing and integration testing&lt;/p&gt;
+&lt;h2 id=&#34;continuous-deliverydeployment-cd&#34;&gt;Continuous Delivery/Deployment (CD)&lt;/h2&gt;
+&lt;p&gt;CD picks up where CI leaves off, focusing on the later stages of the pipeline. It involves thoroughly testing, validating, and preparing a completed build for deployment. Continuous Delivery can, but does not necessarily, deploy a successfully tested and validated build. The key difference between CD and Continuous Deployment (which is a subset of CD) is that CD does not necessarily deploy every change to production, allowing for manual approval steps&lt;/p&gt;
+&lt;h1 id=&#34;benefits-of-cicd&#34;&gt;Benefits of CI/CD&lt;/h1&gt;
+&lt;p&gt;The adoption of CI/CD brings numerous benefits to the software development process:&lt;/p&gt;
+&lt;p&gt;Efficient Software Development: Smaller iterations allow for easier and more efficient testing, making it easier to find and fix bugs. Features are more readily evaluated for usefulness and user acceptance, and less useful features can be easily adjusted or abandoned before further development is wasted
+Competitive Software Products: CI/CD development readily adapts to new and changing requirements, enabling developers to implement changes in subsequent iterations. Products developed with CI/CD can reach the market faster and with more success
+Freedom to Fail: The rapid cyclicality of CI/CD enables developers to experiment with innovative coding styles and algorithms with far less risk than traditional software development paradigms. If an experiment doesn&amp;rsquo;t work out, it can be undone in the next rapid iteration
+Better Software Maintenance: The constant flow of a CI/CD pipeline makes it easier to address and fix bugs faster and with better confidence, resulting in a more stable and reliable product over time
+Better Operations Support: Regular software releases keep operations staff in tune with the software&amp;rsquo;s requirements and monitoring needs, enabling administrators to deploy software updates and handle rollbacks with fewer deployment errors and needless troubleshooting&lt;/p&gt;
+&lt;h2 id=&#34;challenges-of-cicd&#34;&gt;Challenges of CI/CD&lt;/h2&gt;
+&lt;p&gt;Despite its numerous benefits, CI/CD implementation encounters specific challenges:&lt;/p&gt;
+&lt;p&gt;Dedication to Automation: CI/CD relies on the consistency of an established tool set and strong automation to build, test, and deploy each build. This demands a serious intellectual investment to implement and manage the automation, which can involve a steep learning curve
+Staff Discipline and Planning: A CI/CD process cannot bring full value to the business if it&amp;rsquo;s not constantly generating new builds, testing release candidates, and deploying selected candidates to production. This requires careful planning and expert project management skills
+Communication and Collaboration: No amount of automation and tooling is a substitute for good communication and collaboration among developers and project stakeholders. These interactions facilitate the rapid, efficient experimentation that makes CI/CD so powerful&lt;/p&gt;
+&lt;h2 id=&#34;implementing-cicd&#34;&gt;Implementing CI/CD&lt;/h2&gt;
+&lt;p&gt;Implementing a CI/CD pipeline involves several key attributes:&lt;/p&gt;
+&lt;p&gt;Z-    Speed: A CI/CD pipeline should be able to move through the pipeline (integration, testing, delivery, and deployment) in short order, ideally completing an integration in minutes and a few hours for testing cycles to finish
+Consistency: The processes and components used in one place or cycle should be exactly the same in all places and cycles, ensuring that efforts will be successful and deliver the desired results every time
+Tight Version Control: Good version control facilitates fast, accurate, and confident rollbacks whenever the need arises
+Automation: Extensive automation moves new code through integration, testing, and delivery or deployment with little, if any, manual interaction
+Integrated Feedback Loops: A CI/CD pipeline is a loop that yields countless iterative steps to a completed project, with each phase offering a loop back to the beginning. This ensures that problems are identified, located, reported, and corrected with relative ease
+Security Throughout: Infusing security best practices throughout the CI/CD pipeline is critical to spot potential security flaws in the code flowing through the pipeline and to conduct additional security evaluations during the testing phase&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;CI/CD is not just a buzzword but a transformative practice that can significantly enhance the software development lifecycle. By embracing CI/CD, organizations can achieve faster, more reliable, and more secure software releases. The key to success lies in understanding the principles behind CI/CD, overcoming the challenges, and implementing a pipeline that aligns with the organization&amp;rsquo;s goals and culture. As the software development landscape continues to evolve, the adoption of CI/CD practices will remain a critical pathway to innovation and efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/post/day-in-the-life/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/day-in-the-life/</guid>
+      <description>&lt;h1 id=&#34;day-in-the-life-of-a-student&#34;&gt;Day in the life of a student&lt;/h1&gt;
+&lt;p&gt;This week was a whirlwind of activity, filled with both the thrill of competition and the challenges of learning. I kicked off the week by participating in a sports competition, where the stakes were high and the excitement was palpable. It was a reminder of the importance of teamwork, strategy, and perseverance in any endeavor.&lt;/p&gt;
+&lt;p&gt;In the midst of the competition, I found myself diving into the world of programming, specifically learning C++. The journey into C++ was both daunting and exhilarating, as I navigated through the complexities of the language, honing my problem-solving skills and deepening my understanding of programming principles.&lt;/p&gt;
+&lt;p&gt;Parallel to my programming adventures, I also took on the challenge of mastering Git to an advanced level. The intricacies of version control were a new frontier for me, but with persistence and practice, I began to grasp the power of Git in managing and collaborating on code projects.&lt;/p&gt;
+&lt;p&gt;As the week progressed, I also prepared for my math test, dedicating time to review and practice, ensuring that I was well-prepared to tackle the challenges ahead.&lt;/p&gt;
+&lt;p&gt;Balancing these various commitments was a test of my time management and focus, but it was also a rewarding experience. Each challenge presented new learning opportunities, and I am excited to continue my journey of growth and discovery in the coming week&lt;/p&gt;
 </description>
     </item>
     
